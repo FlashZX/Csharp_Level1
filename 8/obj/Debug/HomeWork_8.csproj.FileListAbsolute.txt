@@ -1,0 +1,10 @@
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\bin\Debug\HomeWork_8.exe.config
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\bin\Debug\HomeWork_8.exe
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\bin\Debug\HomeWork_8.pdb
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\obj\Debug\HomeWork_8.csprojAssemblyReference.cache
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\obj\Debug\Be_OrNot_toBe.Form1.resources
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\obj\Debug\HomeWork_8.Properties.Resources.resources
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\obj\Debug\HomeWork_8.csproj.GenerateResource.cache
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\obj\Debug\HomeWork_8.csproj.CoreCompileInputs.cache
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\obj\Debug\HomeWork_8.exe
+C:\Users\Flash\source\repos\HomeWork_8\HomeWork_8\obj\Debug\HomeWork_8.pdb
